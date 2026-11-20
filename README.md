@@ -119,4 +119,4 @@ Cybersecurity Intern | Batch **B084J**
 **Repository:** GitHub
 
 
-🙏 Special thanks to NetworkWalks for providing the cybersecurity internship program, practical learning resources, and hands-on laboratory exercises.
+🙏 Special thanks to NetworkWalks for providing the cybersecurity internship program, practical learning resources and hands-on laboratory exercises.
